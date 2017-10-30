@@ -1,0 +1,7 @@
+<templateSet group="other">
+  <template name="log" value="@Inject&#10;private org.slf4j.Logger logger;" description="Inserts a slf4j injected logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

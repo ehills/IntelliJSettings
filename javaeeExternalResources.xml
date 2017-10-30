@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="urn:jboss:domain:4.2" />
+    <ignored-resource url="urn:jboss:domain:batch-jberet:1.0" />
+    <ignored-resource url="urn:jboss:domain:bean-validation:1.0" />
+    <ignored-resource url="urn:jboss:domain:logging:3.0" />
+  </component>
+</application>

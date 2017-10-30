@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.tools.siam.education.govt.nz/" />
+          <token>dfccdf98df98dfc9dfc8df9cdf9ddf98dfccdfc8df98dfcedfcedf9adfccdf92df92df9fdfcbdf92df9bdf9fdf9ddf99dfc8df9fdfccdf9fdf92df9edf9cdfc8dfc8df9ddf9fdf9adfc9df99df9edf98</token>
+          <option name="name" value="Wfiam" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
