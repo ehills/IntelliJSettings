@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*.sss</mask>
       <mask>*.xhtm</mask>
       <mask>*.xht</mask>
       <mask>*.ym</mask>
@@ -34,6 +33,7 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>!*.java</mask>
     </recentFileMasks>
   </component>
 </application>
