@@ -1,1 +1,9 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="true" />
+    </value>
+  </option>
+</code_scheme>
