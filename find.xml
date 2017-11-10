@@ -34,7 +34,8 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>!*.java</mask>
     </recentFileMasks>
   </component>
 </application>
