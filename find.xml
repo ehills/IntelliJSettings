@@ -11,7 +11,6 @@
       <mask>*.xhtml</mask>
       <mask>*.md</mask>
       <mask>*.m</mask>
-      <mask>*</mask>
       <mask>*.ldi</mask>
       <mask>*.ldif</mask>
       <mask>*.ld</mask>
@@ -29,11 +28,12 @@
       <mask>*.jav</mask>
       <mask>!*.java</mask>
       <mask>!*.java</mask>
-      <mask>*.java</mask>
       <mask>*.ja</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
