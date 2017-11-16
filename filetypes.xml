@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="kdbx" type="Native" />
       <mapping ext="asc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
