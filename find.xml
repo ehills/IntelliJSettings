@@ -3,20 +3,15 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>!*.cs</mask>
-      <mask>!*.csv</mask>
-      <mask>*.csv</mask>
       <mask>*.c</mask>
-      <mask>*.ym</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>!*.java</mask>
       <mask>!*.java</mask>
       <mask>*.ja</mask>
-      <mask>*.y</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
       <mask>*.java,</mask>
       <mask>*.java,</mask>
@@ -34,6 +29,12 @@
       <mask>.ym</mask>
       <mask>.yml</mask>
       <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
