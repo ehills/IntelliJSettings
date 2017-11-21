@@ -4,16 +4,6 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*.c</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
-      <mask>!*.java</mask>
-      <mask>!*.java</mask>
-      <mask>*.ja</mask>
-      <mask>*</mask>
-      <mask>*.java,</mask>
-      <mask>*.java,</mask>
-      <mask>*.java, *</mask>
       <mask>*.java, *.</mask>
       <mask>*.java, *.ht</mask>
       <mask>*.java, *.html</mask>
@@ -32,6 +22,16 @@
       <mask>*.ht</mask>
       <mask>*.html</mask>
       <mask>*.h</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.properties</mask>
+      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
     </recentFileMasks>
