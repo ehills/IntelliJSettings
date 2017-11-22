@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*.java, *.</mask>
       <mask>*.java, *.ht</mask>
       <mask>*.java, *.html</mask>
       <mask>*.java, *.html,</mask>
@@ -16,15 +15,11 @@
       <mask>.y</mask>
       <mask>.ym</mask>
       <mask>.yml</mask>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
       <mask>*.h</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -32,8 +27,13 @@
       <mask>*.proper</mask>
       <mask>*.properties</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.jav=</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
