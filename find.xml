@@ -3,10 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <recentFileMasks>
-      <mask>*.java, *.ht</mask>
-      <mask>*.java, *.html</mask>
-      <mask>*.java, *.html,</mask>
       <mask>*.java, *.html,</mask>
       <mask>*.java, *.html, *</mask>
       <mask>.s</mask>
@@ -30,10 +28,13 @@
       <mask>*.java</mask>
       <mask>*.jav=</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.</mask>
+      <mask>*.xh</mask>
+      <mask>*.xht</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
