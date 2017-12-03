@@ -4,6 +4,7 @@
       <mapping ext="kdbx" type="Native" />
       <mapping pattern=".ignore" type="PLAIN_TEXT" />
       <mapping ext="asc" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
