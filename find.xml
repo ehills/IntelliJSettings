@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>.s</mask>
       <mask>.sh</mask>
@@ -29,13 +30,13 @@
       <mask>*.j</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
-      <mask>*.</mask>
       <mask>*.xh</mask>
       <mask>*.xht</mask>
       <mask>*.xhtml</mask>
-      <mask>*.yml</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
