@@ -10,8 +10,19 @@
           <option name="url" value="git@jos-git-server.datacom.co.nz:edwardh/robobro.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@jos-git-server.datacom.co.nz:realme/logonservice-selenity-tests.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@jos-git-server.datacom.co.nz:realme/realme-selenity-commons.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Projects\" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="MIGRATED" value="true" />
   </component>
 </application>

@@ -1,39 +1,42 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>*.xhtm</mask>
-      <mask>*.xht</mask>
-      <mask>*.ym</mask>
-      <mask>*.csv</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.yml</mask>
+      <mask>.s</mask>
+      <mask>.sh</mask>
+      <mask>.</mask>
+      <mask>.y</mask>
+      <mask>.ym</mask>
+      <mask>.yml</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
+      <mask>*.h</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.properties</mask>
+      <mask>*</mask>
+      <mask>*.java</mask>
+      <mask>*.jav=</mask>
+      <mask>*.j</mask>
       <mask>*.y</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.s</mask>
+      <mask>*.ym</mask>
+      <mask>*.xh</mask>
+      <mask>*.xht</mask>
+      <mask>*.xhtml</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*.xh</mask>
-      <mask>*.xhtml</mask>
-      <mask>*.md</mask>
-      <mask>*.m</mask>
-      <mask>*</mask>
-      <mask>*.ldi</mask>
-      <mask>*.ldif</mask>
-      <mask>*.ld</mask>
-      <mask>*.l</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>!*.java</mask>
-      <mask>*.java</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
