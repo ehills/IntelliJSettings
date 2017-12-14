@@ -5,8 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.ht</mask>
       <mask>*.html</mask>
       <mask>*.h</mask>
       <mask>*.jav</mask>
@@ -17,9 +17,7 @@
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
-      <mask>*.java</mask>
       <mask>*.jav=</mask>
-      <mask>*.j</mask>
       <mask>*.ym</mask>
       <mask>*.xh</mask>
       <mask>*.xht</mask>
@@ -31,11 +29,14 @@
       <mask>*.s</mask>
       <mask>*.sh</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.l</mask>
-      <mask>*.ld</mask>
       <mask>*.ldi</mask>
       <mask>*.ldif</mask>
+      <mask>*.ldif=</mask>
+      <mask>*.ld</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
