@@ -11,6 +11,12 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="kdbx" type="Native" />
+      <mapping pattern=".ignore" type="PLAIN_TEXT" />
+      <mapping pattern="wfiamxfer-user-public-key" type="PLAIN_TEXT" />
+      <mapping ext="asc" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
