@@ -3,9 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
@@ -26,7 +25,6 @@
       <mask>*.ldif=</mask>
       <mask>*.ld</mask>
       <mask>*.l</mask>
-      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.xml</mask>
       <mask>*.s</mask>
@@ -35,6 +33,8 @@
       <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>*.javal</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
