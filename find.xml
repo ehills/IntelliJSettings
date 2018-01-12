@@ -3,10 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="!*.csv" />
     <recentFileMasks>
-      <mask>*.ja</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
@@ -24,16 +22,19 @@
       <mask>*.ld</mask>
       <mask>*.l</mask>
       <mask>*.xml</mask>
-      <mask>*.s</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.javal</mask>
       <mask>*.java</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.cs</mask>
+      <mask>*.csv</mask>
+      <mask>!*.csv</mask>
     </recentFileMasks>
   </component>
 </application>
