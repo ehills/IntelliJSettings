@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.ldif" />
     <recentFileMasks>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
@@ -15,7 +16,6 @@
       <mask>*.sh</mask>
       <mask>*</mask>
       <mask>*.ldi</mask>
-      <mask>*.ldif</mask>
       <mask>*.ldif=</mask>
       <mask>*.ld</mask>
       <mask>*.l</mask>
@@ -34,6 +34,7 @@
       <mask>*.y</mask>
       <mask>*.yml</mask>
       <mask>*.java</mask>
+      <mask>*.ldif</mask>
     </recentFileMasks>
   </component>
 </application>
