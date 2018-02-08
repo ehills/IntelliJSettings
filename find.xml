@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.csv" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
@@ -32,9 +32,9 @@
       <mask>*.y</mask>
       <mask>*.ldif</mask>
       <mask>*.java</mask>
-      <mask>*.yml</mask>
       <mask>*.md</mask>
       <mask>*.csv</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
