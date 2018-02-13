@@ -22,6 +22,7 @@
       <mapping ext="asc" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
