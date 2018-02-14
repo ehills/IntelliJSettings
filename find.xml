@@ -3,7 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>*.proper</mask>
@@ -31,11 +33,11 @@
       <mask>*.c</mask>
       <mask>*.</mask>
       <mask>*.y</mask>
-      <mask>*.ldif</mask>
       <mask>*.md</mask>
       <mask>*.yml</mask>
       <mask>*.csv</mask>
       <mask>*.java</mask>
+      <mask>*.ldif</mask>
     </recentFileMasks>
   </component>
 </application>
