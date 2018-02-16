@@ -30,10 +30,10 @@
       <mask>*.y</mask>
       <mask>*.md</mask>
       <mask>*.csv</mask>
-      <mask>*.java</mask>
       <mask>*.ldif</mask>
       <mask>*.json</mask>
       <mask>*.yml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
