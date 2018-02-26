@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.sh" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jav=</mask>
@@ -10,7 +11,6 @@
       <mask>*.xht</mask>
       <mask>*.xhtml</mask>
       <mask>*.x</mask>
-      <mask>*.sh</mask>
       <mask>*</mask>
       <mask>*.ldi</mask>
       <mask>*.ldif=</mask>
@@ -34,6 +34,7 @@
       <mask>*.json</mask>
       <mask>*.yml</mask>
       <mask>*.java</mask>
+      <mask>*.sh</mask>
     </recentFileMasks>
   </component>
 </application>
