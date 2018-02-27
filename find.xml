@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jav=</mask>
@@ -31,9 +32,9 @@
       <mask>*.ldif</mask>
       <mask>*.xml</mask>
       <mask>*.json</mask>
-      <mask>*.java</mask>
       <mask>*.sh</mask>
       <mask>*.yml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
