@@ -3,38 +3,5 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java " />
-    <recentFileMasks>
-      <mask>*.xht</mask>
-      <mask>*.xhtml</mask>
-      <mask>*.x</mask>
-      <mask>*</mask>
-      <mask>*.ldi</mask>
-      <mask>*.ldif=</mask>
-      <mask>*.ld</mask>
-      <mask>*.l</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
-      <mask>*.javal</mask>
-      <mask>*.j</mask>
-      <mask>*.ym</mask>
-      <mask>*.s</mask>
-      <mask>!*.csv</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.md</mask>
-      <mask>*.ldif</mask>
-      <mask>*.json</mask>
-      <mask>*.sh</mask>
-      <mask>!*.java</mask>
-      <mask>*.xml</mask>
-      <mask>*.csv</mask>
-      <mask>*.java</mask>
-      <mask>*.yml</mask>
-      <mask>!*.java</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
   </component>
 </application>
